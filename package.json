@@ -1,0 +1,13 @@
+{
+  "name": "screenflow",
+  "version": "1.0.0",
+  "description": "ScreenFlow - نظام إدارة شاشات الإعلانات عن بُعد (Digital Signage)",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
